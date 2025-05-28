@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main{
+public class armstrong{
     public static void main(String[] args){
         Scanner kk=new Scanner(System.in);
         int n=kk.nextInt();
